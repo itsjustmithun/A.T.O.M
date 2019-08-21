@@ -18,7 +18,7 @@ pip3 install -r requirements.txt
 * Usage
 
 ```bash
-python ATOM.py
+python FRIDAY.py
 ````
 
 
